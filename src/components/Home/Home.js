@@ -8,6 +8,7 @@ import Button from "react-bootstrap/Button";
 import { AiOutlineDownload } from "react-icons/ai";
 import Home2 from "./Home2";
 import Type from "./Type";
+import ContactMe from "../ContactMe";
 
 function Home() {
   return (
@@ -39,6 +40,7 @@ function Home() {
       </Container>
       <ResumeNew />
       <Home2 />
+      <ContactMe />
     </section >
   );
 }

@@ -6,8 +6,6 @@ import pdf from "../../Assets/Imriaz's Resume.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 
-
-
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
 
