@@ -34,6 +34,8 @@ function Projects() {
 Express js, MongoDB, Firebase 
 "
               link="https://imriaz-auto.web.app/"
+              linkGitClient="https://github.com/Imriaz/Imriaz-Auto-Client"
+              linkGitServer="https://github.com/Imriaz/Imriaz-Auto-Server"
             />
           </Col>
 
@@ -49,6 +51,8 @@ Express js, MongoDB, Firebase
               Technology Used: Html, CSS, Bootstrap, React js, Node js, Express js, 
 MongoDB, Firebase"
               link="https://tour-with-imriaz.web.app/"
+              linkGitClient="https://github.com/Imriaz/Tour-With-Imriaz-Client"
+              linkGitServer="https://github.com/Imriaz/Tour-With-Imriaz-Server"
             />
           </Col>
 
@@ -61,6 +65,7 @@ MongoDB, Firebase"
               2. User & Admin Role separated Dashboard. An Admin can add vaccines, send a reminder to the guardian’s mobile.
               3. Technology Used: HTML, CSS, Bootstrap, PHP, MySQL"
               link="https://vaccinationcare.000webhostapp.com/"
+              linkGitClient="https://github.com/Imriaz/VaccinationCare"
             />
           </Col>
 
@@ -69,8 +74,9 @@ MongoDB, Firebase"
               imgPath={PlasmaHealthcare}
               isBlog={false}
               title="Plasma Health Care"
-              description=" • This project is about a healthcare clinic with possible all details. • There is an private porsion which is access by only logged user. • In this app the user can login or register by two way. One is using email, Password & another is using google account. • After login, user can book the department for their desir details. • There also a part of Doctor's name & details, which is helpful to find the doctor."
+              description=" • This project is about a healthcare clinic with possible all details. • There is an private portion which is access by only logged user. • In this app the user can login or register by two way. One is using email, Password & another is using google account. • After login, user can book the department for their desire details. • There also a part of Doctor's name & details, which is helpful to find the doctor."
               link="https://plasma-healthcare.web.app/"
+              linkGitClient="https://github.com/Imriaz/Plasma-Healthcare"
             />
           </Col>
 
@@ -81,6 +87,7 @@ MongoDB, Firebase"
               title="Capston Group Select."
               description="This is for Capstone group select • Know total waiver of the team member • Select as your own choice"
               link="https://group-select-imriaz.netlify.app/"
+              linkGitClient="https://github.com/Imriaz/capston-group-select"
             />
           </Col>
         </Row>
